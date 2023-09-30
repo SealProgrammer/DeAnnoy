@@ -41,7 +41,7 @@ var toReplace = {
     "Him/her": "Them",
     "Him/Her": "Them",
     "him or her": "them",
-    "Him or her": "them",
+    "Him or her": "Them",
     "Him or Her": "Them",
     "Him Or Her": "Them",
 
