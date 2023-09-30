@@ -9,6 +9,6 @@ On all websites, when first loading the site, any instances of "he/she" or equiv
 
 # Examples
 he/she -> they
-his or hers -> theirs
+his or her -> their
 Him or her -> Their
 etc...
